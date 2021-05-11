@@ -1,0 +1,38 @@
+<h2>Notas_APIS_de-usolibre-para experimentos</h2>
+<p>--------------------------------------------</p>
+<p>USO DE UN API REST </p>
+
+<h3>HUB de de servicios a apis</h3>
+<a href="https://rapidapi.com/products/enterprise-hub/">https://rapidapi.com/products/enterprise-hub/</a>
+<h3>Algunas APIS de uso libre interesantes:</h3>
+<ul>
+<li><a href="https://dog.ceo/dog-api/">https://dog.ceo/dog-api/</a></li>
+<li><a href="PAISES: https://restcountries.eu/">PAISES: https://restcountries.eu/</a></li>
+<li><a href="https://jikan.moe/">https://jikan.moe/</a></li>
+<li><a href="https://jsonplaceholder.typicode.com/">https://jsonplaceholder.typicode.com/</a></li>
+<li><a href="https://reqres.in/">https://reqres.in/</a></li>
+<li><a href="https://www.omdbapi.com/">https://www.omdbapi.com/</a></li>
+<li><a href="https://openweathermap.org/api">https://openweathermap.org/api</a></li>
+<li><a href="https://api.nasa.gov/">https://api.nasa.gov/</a></li>
+<li><a href="https://pokeapi.co/">https://pokeapi.co/</a></li>
+<li><a href="API sobre "League of Legends" https://api-lol">API sobre "League of Legends" https://api-lol.</a></li>
+<li><a href="herokuapp.com/">herokuapp.com/</a></li>
+<li><a href="Rick y Morty https://rickandmortyapi.com/">Rick y Morty https://rickandmortyapi.com/</a><li>
+</ul>
+<h2>Repositorio GITHUB con una listado de Apis:</h2>
+<a href="https://github.com/public-apis/public-apis">Repositorio Lsitado de API</a>
+<pre>
+-----<  Usando API rest Java Script >---------------------
+
+Crear o Insertar datos
+
+Consultar
+Todos los Registros
+Un Registros
+
+Modificar
+registro especifico
+
+Borrar
+registro especifico
+</pre>

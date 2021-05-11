@@ -1,0 +1,43 @@
+<h1>Notas_APIS_de-usolibre-para experimentos</h1>
+--------------------------------------------
+USO DE UN API REST 
+------------------------
+HUB de de servicios a apis
+--------------------------------------------
+https://rapidapi.com/products/enterprise-hub/
+
+
+
+Algunas APIS de uso libre interesantes:
+------------------------------------------------------
+https://dog.ceo/dog-api/
+PAISES: https://restcountries.eu/
+https://jikan.moe/
+https://jsonplaceholder.typicode.com/ 
+https://reqres.in/
+https://www.omdbapi.com/
+https://openweathermap.org/api
+https://api.nasa.gov/
+https://pokeapi.co/
+API sobre "League of Legends" https://api-lol.herokuapp.com/
+Rick y Morty https://rickandmortyapi.com/
+
++------------------------------------------------
+| Repositorio GITHUB con una listado de Apis:
++-------------------------------------------------
+
+https://github.com/public-apis/public-apis
+
+-----<  Usando API rest Java Script >---------------------
+
+Crear o Insertar datos
+
+Consultar
+Todos los Registros
+Un Registros
+
+Modificar
+registro especifico
+
+Borrar
+registro especifico

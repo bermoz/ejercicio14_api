@@ -1,0 +1,7 @@
+Titulo del Texto
+Esto es un texto almacenado en un archivo tipo texto.
+
+Ejercicio Leer un archivo de texto
+En este ejercicio exploraremos como leer un archivo de text externo.
+
+por: bermoz
